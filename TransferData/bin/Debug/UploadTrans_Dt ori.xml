@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Trans>
+    <srcTable>GRDC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>GRRDC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>GRDCFRC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>DODC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>DOMANUALDC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+
+</NewDataSet>

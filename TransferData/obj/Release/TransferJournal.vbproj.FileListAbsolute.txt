@@ -1,0 +1,11 @@
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Release\TransferJournal.exe.config
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Release\TransferJournal.exe
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Release\TransferJournal.pdb
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Release\TransferJournal.xml
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Release\Newtonsoft.Json.dll
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.FrmTransfer.resources
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.Resources.resources
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.vbproj.GenerateResource.Cache
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.exe
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.xml
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Release\TransferJournal.pdb

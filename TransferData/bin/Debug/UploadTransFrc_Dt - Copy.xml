@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Trans>
+    <srcTable>FRC_JRN</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>RETURFRC</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+
+</NewDataSet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Master>
+    <srcTable>master_coa</srcTable>
+	<dstTable>MstCOA</dstTable>
+  </Master>
+  <Master>
+    <srcTable>master_journal_group</srcTable>
+	<dstTable>MstJournalGroup</dstTable>
+  </Master>
+</NewDataSet>

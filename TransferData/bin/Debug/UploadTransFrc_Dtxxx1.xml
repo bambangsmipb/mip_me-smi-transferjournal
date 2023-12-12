@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Trans>
+    <srcTable>TIFRC</srcTable>
+	<dstTable>matching</dstTable>
+  </Trans>
+  <Trans>
+  	<srcTable>RETURFRC</srcTable>
+	<dstTable>matching</dstTable>
+  </Trans>
+</NewDataSet>

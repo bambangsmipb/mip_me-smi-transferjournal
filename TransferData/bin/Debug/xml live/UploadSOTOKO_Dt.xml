@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+
+<NewDataSet>
+  
+<Trans>
+ <srcTable>ADJTOKO</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+	<srcTable>REALRRAK</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+	<srcTable>NONRRAK</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+	<srcTable>POTRRAK</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+	<srcTable>POTNONRRAK</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+	<srcTable>PengembalianRRAK</srcTable>
+	<dstTable>journal_entry</dstTable>
+</Trans>
+
+
+<Trans>
+ <srcTable>GPT_POINT</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+ <srcTable>RTR_POINT</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+<Trans>
+ <srcTable>RPT_POINT</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  
+</NewDataSet>

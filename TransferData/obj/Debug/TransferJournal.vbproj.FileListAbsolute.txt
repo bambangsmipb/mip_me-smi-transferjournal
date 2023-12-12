@@ -1,0 +1,72 @@
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Debug\TransferJournal.exe.config
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Debug\TransferJournal.exe
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Debug\TransferJournal.pdb
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Debug\TransferJournal.xml
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\bin\Debug\Newtonsoft.Json.dll
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.vbprojResolveAssemblyReference.cache
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.Cache
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.exe
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.xml
+D:\TIGAS\PLANET_BAN\MiddleWare\TransferData\obj\Debug\TransferJournal.pdb
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe.config
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.pdb
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.xml
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.Cache
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.exe
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.xml
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.pdb
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\Newtonsoft.Json.dll
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbprojAssemblyReference.cache
+D:\Project SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.CopyComplete
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe.config
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.pdb
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.xml
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\Newtonsoft.Json.dll
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.cache
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.CoreCompileInputs.cache
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.CopyComplete
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.exe
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.xml
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.pdb
+D:\PJK SMI\3S\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbprojAssemblyReference.cache
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe.config
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.exe
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.xml
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.pdb
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.exe
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.pdb
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\bin\Debug\TransferJournal.xml
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbprojResolveAssemblyReference.cache
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\BAMBANG\New folder\febri asli\FEBRII\mip_me-smi-transferjournal-0c30f2e547e0\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.exe.config
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.exe
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.xml
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.pdb
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.exe
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.pdb
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.xml
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.vbprojResolveAssemblyReference.cache
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\UPDATE SOURCECODE\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.Cache
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.exe.config
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.exe
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.xml
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.pdb
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.exe
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.pdb
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\bin\Debug\TransferJournal.xml
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.FrmTransfer.resources
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.Resources.resources
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.vbproj.GenerateResource.Cache
+D:\1 up to date\mip_me-smi-transferjournal\TransferData\obj\Debug\TransferJournal.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Master>
+    <srcTable>MstPerusahaan</srcTable>
+	<dstTable>master_partner</dstTable>
+  </Master>
+  <Master>
+    <srcTable>MstSupplier</srcTable>
+	<dstTable>master_partner</dstTable>
+  </Master>
+  <Master>
+    <srcTable>MasterToolsToko</srcTable>
+	<dstTable>master_partner</dstTable>
+  </Master>
+  <Master>
+    <srcTable>MstCabang</srcTable>
+	<dstTable>master_branch</dstTable>
+  </Master>
+  <Master>
+    <srcTable>MstDC</srcTable>
+	<dstTable>master_location</dstTable>
+  </Master>
+  <Master>
+    <srcTable>MstToko</srcTable>
+	<dstTable>master_location</dstTable>
+  </Master>
+</NewDataSet>

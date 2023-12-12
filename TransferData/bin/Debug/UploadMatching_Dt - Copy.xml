@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Trans>
+    <srcTable>PURDC</srcTable>
+	<dstTable>matching</dstTable>
+  </Trans>
+  <Trans>
+    <srcTable>SALDC</srcTable>
+	<dstTable>matching</dstTable>
+  </Trans>
+  <Trans>
+    <srcTable>AIMDC</srcTable>
+     <dstTable>journal_entry</dstTable>
+  </Trans>
+</NewDataSet>

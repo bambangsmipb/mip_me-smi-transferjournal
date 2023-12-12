@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Trans>
+    <srcTable>SODO</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+  <Trans>
+    <srcTable>SOSAL</srcTable>
+	<dstTable>journal_entry</dstTable>
+  </Trans>
+</NewDataSet>
